@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KrestikiNoliki</string>
+    <string name="player_one_wins">Победил игрок А!</string>
+    <string name="player_two_wins">Победил игрок В!</string>
+    <string name="draw_game">Ничья!</string>
+</resources>
